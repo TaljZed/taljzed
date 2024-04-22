@@ -31,9 +31,12 @@ I'm Taljzed, a passionate pawn scripter since 2022, specializing in roleplay gam
 ## 📫 How to Reach Me
 
 - Email: taljzed@gmail.com
-- Discord: taljzed
-- Twitter: taljzed
-
+- Twitter: [taljzed](https://twitter.com/taljzed)
+- Discord:
+<h2 align="left">
+ <a href="https://discord.com/users/759408043796201472"><img  width="400px" src="https://lanyard.kyrie25.me/api/759408043796201472?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=3256a8&imgStyle=square&imgBorderRadius=16px&bg=DD272700&idleMessage=Don't-hesitate-to-hit-me-up"></a>
+ </h2>
+ 
 ## 😄 Pronouns
 
 She/Her
